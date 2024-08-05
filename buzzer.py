@@ -23,3 +23,4 @@ while True:
 
     pwm.stop()
     time.sleep(3)
+    pwm.start(50)
